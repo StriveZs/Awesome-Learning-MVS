@@ -1,14 +1,18 @@
 # Awesome-Learning-MVS
 
-### Learning-based Multi-view Stereo Methods
+### Learning-based Multi-view depth estimation
 
-#### ECCV2018
+#### ICLR2019
 
-+ MVSNet: Depth Inference for Unstructured Multi-view Stereo [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Yao_MVSNet_Depth_Inference_ECCV_2018_paper.pdf)] [[Github](https://github.com/YoYo000/MVSNet)]
++ DPSNet: End-to-End Deep Plane Sweep Stereo [[paper](https://openreview.net/pdf?id=ryeYHi0ctQ)] [[Github](https://github.com/sunghoonim/DPSNet)]
 
-#### CVPR2019
+#### ECCV2020
 
-+ Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference  [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yao_Recurrent_MVSNet_for_High-Resolution_Multi-View_Stereo_Depth_Inference_CVPR_2019_paper.pdf)]  [[supp](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Yao_Recurrent_MVSNet_for_CVPR_2019_supplemental.pdf)] [[Github](https://github.com/YoYo000/MVSNet)]
++ Occlusion-Aware Depth Estimation with Adaptive Normal Constraints [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540613.pdf)] [[Github](https://github.com/xxlong0/CNMNet)]
+
+<!--  
+
+[Strecha] [Fountain] 
 
 #### ICCV2019
 
@@ -61,7 +65,6 @@
 
 + **EPFL** [CVPR08']
   + On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery [[paper](https://infoscience.epfl.ch/record/126393)]
-<!--  [Strecha] [Fountain] -->
 
 + **DTU** [CVPR2014, IJCV2016]
   + Large-scale data for multiple-view stereopsis [[paper](https://github.com/Todd-Qi/Awesome-Learning-MVS/blob/main/datasets/DTU_Large_scale_data_for_multiple_view_stereopsis.pdf)] [[website](http://roboimagedata.compute.dtu.dk/?page_id=36)] [[Eval code](https://github.com/Todd-Qi/MVSNet-PyTorch/tree/master/evaluations/dtu)] [[video](https://www.bilibili.com/video/BV1k5411G7NA/)]
@@ -75,3 +78,4 @@
 + **BlendedMVS** [CVPR2020]
   + BlendedMVS: A Large-Scale Dataset for Generalized Multi-View Stereo Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yao_BlendedMVS_A_Large-Scale_Dataset_for_Generalized_Multi-View_Stereo_Networks_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yao_BlendedMVS_A_Large-Scale_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/YoYo000/BlendedMVS)] [[visual](https://github.com/kwea123/BlendedMVS_scenes)]
 
+-->
