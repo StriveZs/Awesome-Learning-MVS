@@ -2,9 +2,16 @@
 
 ### Learning-based Multi-view depth estimation
 
+#### 3DV 2018
++ MVDepthNet: Real-Time Multiview Depth Estimation Neural Network [[paper](https://ieeexplore.ieee.org/document/8490975)] [[Github](https://github.com/HKUST-Aerial-Robotics/MVDepthNet)]
+
 #### ICLR2019
 
 + DPSNet: End-to-End Deep Plane Sweep Stereo [[paper](https://openreview.net/pdf?id=ryeYHi0ctQ)] [[Github](https://github.com/sunghoonim/DPSNet)]
+
+#### CVPR2020
+
++ Normal Assisted Stereo Depth Estimation [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kusupati_Normal_Assisted_Stereo_Depth_Estimation_CVPR_2020_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Kusupati_Normal_Assisted_Stereo_CVPR_2020_supplemental.pdf)] [[Github](https://github.com/udaykusupati/Normal-Assisted-Stereo)]
 
 #### ECCV2020
 
@@ -16,7 +23,7 @@
 
 #### ICCV2019
 
-+ Point-Based Multi-View Stereo Network  [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Point-Based_Multi-View_Stereo_Network_ICCV_2019_paper.pdf)] [[supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Chen_Point-Based_Multi-View_Stereo_ICCV_2019_supplemental.pdf)] [[Github](https://github.com/callmeray/PointMVSNet)]
++ Point-Based Multi-View Stereo Network  
 + P-MVSNet: Learning Patch-wise Matching Confidence Aggregation for Multi-view Stereo [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Luo_P-MVSNet_Learning_Patch-Wise_Matching_Confidence_Aggregation_for_Multi-View_Stereo_ICCV_2019_paper.pdf)]
 + MVSCRF: Learning Multi-view Stereo with Conditional Random Fields [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_MVSCRF_Learning_Multi-View_Stereo_With_Conditional_Random_Fields_ICCV_2019_paper.pdf)]
 
