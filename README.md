@@ -17,6 +17,12 @@
 
 + Occlusion-Aware Depth Estimation with Adaptive Normal Constraints [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540613.pdf)] [[Github](https://github.com/xxlong0/CNMNet)]
 
+
+#### ArXiv
++ DeepVideoMVS: Multi-View Stereo on Video with Recurrent Spatio-Temporal Fusion [[paper](https://arxiv.org/abs/2012.02177)] [[Github](https://github.com/ardaduz/deep-video-mvs)]
+
+#### To Be Continued...
+
 <!--  
 
 [Strecha] [Fountain] 
