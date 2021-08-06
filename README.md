@@ -12,6 +12,12 @@
 #### ICCV2017
   + SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Ji_SurfaceNet_An_End-To-End_ICCV_2017_paper.pdf)] [[Github](https://github.com/mjiUST/SurfaceNet)] [[T-PAMI](https://ieeexplore.ieee.org/document/9099504)]
 
+#### NIPS2017
+  + LSM: Learning a Multi-View Stereo Machine [[paper](https://static.aminer.cn/upload/pdf/389/674/127/5f817a34c6c3b86a50617f1d_1.pdf)] [[Github](https://github.com/akar43/lsm)]
+
+#### CVPR2018
+  + DeepMVS: Deepmvs-Learning multi-view stereopsis [[paper](https://static.aminer.cn/upload/pdf/program/5aed14d617c44a443815944a_0.pdf)] [[Github](https://github.com/phuang17/DeepMVS)]
+
 #### ECCV2018
 
 + MVSNet: Depth Inference for Unstructured Multi-view Stereo [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Yao_MVSNet_Depth_Inference_ECCV_2018_paper.pdf)] [[supp](https://yoyo000.github.io/papers/yao2018mvsnet_supp.pdf)] [[Github](https://github.com/YoYo000/MVSNet)]
@@ -43,15 +49,15 @@
 
 + A Novel Recurrent Encoder-Decoder Structure for Large-Scale Multi-view Stereo Reconstruction from An Open Aerial Dataset [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_A_Novel_Recurrent_Encoder-Decoder_Structure_for_Large-Scale_Multi-View_Stereo_Reconstruction_CVPR_2020_paper.pdf)] [[Github](https://github.com/gpcv-liujin/REDNet)] [[data](http://gpcv.whu.edu.cn/data/WHU_MVS_Stereo_dataset.html)]
 
-
 #### ECCV2020
-
 + Pyramid Multi-view Stereo Net with Self-adaptive View aggregation [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540732.pdf)] [[Github](https://github.com/yhw-yhw/PVAMVSNet)]
 + Dense Hybird Recurrent Multi-view Stereo Net with Dynamic Consistency Checking [[paper](https://deepai.org/publication/dense-hybrid-recurrent-multi-view-stereo-net-with-dynamic-consistency-checking)] [[Github](https://github.com/yhw-yhw/D2HC-RMVSNet)]
 
-
 #### BMVC2020
 + Visibility-aware Multi-view Stereo Network [[paper](https://arxiv.org/abs/2008.07928)] [[Github](https://github.com/jzhangbs/Vis-MVSNet)]
+
+#### 3DV2020
++ BP-MVSNet- Belief-Propagation-Layers for Multi-View-Stereo [[paper](https://static.aminer.cn/storage/pdf/arxiv/20/2010/2010.12436.pdf)]
 
 #### WACV2021
 + Long-range Attention Network for Multi-View Stereo [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Long-Range_Attention_Network_for_Multi-View_Stereo_WACV_2021_paper.pdf)]
@@ -59,11 +65,15 @@
 #### CVPR2021
 + PatchmatchNet: Learned Multi-View Patchmatch Stereo [[paper](https://arxiv.org/pdf/2012.01411.pdf)] [[Github](https://github.com/FangjinhuaWang/PatchmatchNet)]
 
+#### IMCV2021
++ How Good MVSNets Are at Depth Fusion [[paper](https://static.aminer.cn/storage/pdf/arxiv/20/2011/2011.14761.pdf)]
+
 #### Journal Paper
 
 + MVSNet++: Learning Depth-Based Attention Pyramid Features for Multi-View Stereo [[paper](https://ieeexplore.ieee.org/document/9115828)]
 + HighRes-MVSNet: A Fast Multi-View Stereo Network for Dense 3D Reconstruction From High-Resolution Images [[paper](https://ieeexplore.ieee.org/document/9319163)]
 + AACVP-MVSNet: Attention-aware cost volume pyramid based multi-view stereo network for 3D reconstruction [[paper](https://www.sciencedirect.com/science/article/pii/S0924271621000794)] [[Github](https://github.com/ArthasMil/AACVP-MVSNet)]
++ Attention Aware Cost Volume Pyramid Based Multi-view Stereo Network for 3D Reconstruction [[paper](https://static.aminer.cn/storage/pdf/arxiv/20/2011/2011.12722.pdf)]
 
 #### Survey Paper
 + A Survey on Deep Learning Techniques for Stereo-based Depth Estimation [[paper](https://arxiv.org/abs/2006.02535)]
@@ -74,6 +84,18 @@
 
 #### To Be Continued...
 
+### Unsupervised Learning MVS
+
+#### CVPR2019
++ Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency [[paper](https://static.aminer.cn/storage/pdf/arxiv/19/1905/1905.02706.pdf)] [[Github](https://github.com/tejaskhot/unsup_mvs)]
+
+#### 3DV2019
++ MVS^2: Deep Unsupervised Multi-view Stereo with Multi-View Symmetry [[paper](https://arxiv.org/pdf/1908.11526v1.pdf)]
+
+#### ArXiv Paper
++ M3VSNet: Unsupervised Multi-metricMulti-view Stereo Network [[paperp](https://static.aminer.cn/storage/pdf/arxiv/20/2004/2004.09722.pdf)]
+
+#### To Be Continued...
 
 ### Multi-view Stereo Benchmark
 <!--  
